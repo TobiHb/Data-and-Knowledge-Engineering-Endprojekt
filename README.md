@@ -35,10 +35,3 @@ Das Jupyter Notebook führt folgende Schritte durch:
 - Python (Jupyter Notebook)
 - Bibliotheken: `sqlite3`, `requests`, `pandas`, `rdflib` (ggf. je nach Implementation)
 
----
-
-## 🚀 So verwendest du das Notebook
-
-1. Klone dieses Repository:
-   ```bash
-   git clone https://github.com/dein-benutzername/DKE-Spielerprojekt.git
