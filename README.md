@@ -1,6 +1,3 @@
-# Data-and-Knowledge-Engineering-Endprojekt
-
-readme_content = """
 # 🧠 Data and Knowledge Engineering – Endprojekt
 
 ## Projekt: Spieleranalyse mit relationalen und RDF-Datenquellen  
